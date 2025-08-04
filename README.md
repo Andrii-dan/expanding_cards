@@ -8,4 +8,4 @@ A simple project demonstrating expanding cards with smooth animations built usin
 
 ## Course Information
 
-This project is part of the 50 Projects In 50 Days - HTML, CSS & JavaScript course on Udemy, created by Brad Traversy & Florin Pop.
+This project is part of the 50 Projects In 50 Days - HTML, CSS & JavaScript course on Udemy, created by Brad Traversy & Florin Pop. 
